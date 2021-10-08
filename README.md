@@ -1,2 +1,2 @@
 # bc-jq-cli
-自定义Vue脚手架
+自定义Jquery脚手架
