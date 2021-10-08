@@ -1,0 +1,4 @@
+.vscode/*
+
+# 前端依赖
+node_modules/
